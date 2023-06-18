@@ -20,7 +20,7 @@ This contract represents a basic token named Kanshi (KSH) contract in Solidity.
 
 ## Additional (For Metacrafters Requirement)
 
-- `transactionID`: Just a custome identifier for the application.
+- `transactionID`: Just a custom identifier for the application.
 
 - `LogString`: Emitted when a string message needs to be logged.
 
